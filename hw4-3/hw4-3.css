@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 4vh;
+    background-color: #D9D9D9;
+}
+/*-----центр----*/
+main{
+    display: flex;
+}
+section{
+    height: 74vh;
+    width: 59vw;
+    background-color: #A4A4A4;
+}
+.aside__up{
+    height: 40vh;
+    width: 41vw;
+    background-color: #7F7A7A;
+}
+.aside__down{
+    height: 34vh;
+    width: 41vw;
+    background-color: #615050;
+}
+/*-----низ---*/
+.footer__down{
+    height: 10vh;
+    background-color: #AFA9A9;
+}
+.footer__up{
+    height: 12vh;
+    background-color: #D9D9D9;
+}
